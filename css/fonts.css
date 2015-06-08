@@ -1,0 +1,56 @@
+@font-face {
+    font-family: "ProximaNovaRegular";
+    src: url("../fonts/ProximaNovaRegular.eot");
+    src: url("../fonts/ProximaNovaRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/ProximaNovaRegular.woff") format("woff"),
+    url("../fonts/ProximaNovaRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "ProximaNovaBold";
+    src: url("../fonts/ProximaNovaBold.eot");
+    src: url("../fonts/ProximaNovaBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/ProximaNovaBold.woff") format("woff"),
+    url("../fonts/ProximaNovaBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "ProximaNovaBlack";
+    src: url("../fonts/ProximaNovaBlack.eot");
+    src: url("../fonts/ProximaNovaBlack.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/ProximaNovaBlack.woff") format("woff"),
+    url("../fonts/ProximaNovaBlack.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'HoeflerTextBlackItalic';
+    src: url('../fonts/hoefler-text-black-italic.eot');
+    src: local('☺'), url('../fonts/hoefler-text-black-italic.woff') format('woff'), url('../fonts/hoefler-text-black-italic.ttf') format('truetype'), url('../fonts/hoefler-text-black-italic.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'HoeflerTextBlack';
+    src: url('../fonts/hoefler-text-black.eot');
+    src: local('☺'), url('../fonts/hoefler-text-black.woff') format('woff'), url('../fonts/hoefler-text-black.ttf') format('truetype'), url('../fonts/hoefler-text-black.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'HoeflerTextItalic';
+    src: url('../fonts/hoefler-text-italic.eot');
+    src: local('☺'), url('../fonts/hoefler-text-italic.woff') format('woff'), url('../fonts/hoefler-text-italic.ttf') format('truetype'), url('../fonts/hoefler-text-italic.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'HoeflerText';
+    src: url('../fonts/hoefler-text.eot');
+    src: local('☺'), url('../fonts/hoefler-text.woff') format('woff'), url('../fonts/hoefler-text.ttf') format('truetype'), url('../fonts/hoefler-text.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

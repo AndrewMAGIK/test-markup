@@ -1,0 +1,22 @@
+<svg display="none" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-arrow-up" viewBox="0 0 1862 1024">
+	<title>arrow-up</title>
+	<path class="path1" d="M0 930.927l930.927-930.927 930.927 930.927-93.139 93.073-837.788-837.788-837.854 837.788-93.073-93.073z"></path>
+</symbol>
+<symbol id="icon-arrow-down" viewBox="0 0 1876 1024">
+	<title>arrow-down</title>
+	<path class="path1" d="M1876.309 82.944l-82.688-82.944-855.467 858.112-855.381-858.112-82.773 82.944 938.155 941.056 82.773-82.944h-0.085z"></path>
+</symbol>
+<symbol id="icon-search" viewBox="0 0 946 1024">
+	<title>search</title>
+	<path class="path1" d="M806.439 735.547c56.005-76.8 89.561-171.874 89.561-275.22 0-254.267-200.625-460.327-447.961-460.327-247.493 0-448.039 206.060-448.039 460.327s200.546 460.327 448.039 460.327c74.437 0 144.542-18.983 206.297-51.988l151.001 155.333 140.682-144.778-139.579-143.675zM448.039 716.327c-137.295 0-248.596-114.609-248.596-256s111.301-256 248.596-256 248.596 114.609 248.596 256-111.301 256-248.596 256z"></path>
+</symbol>
+<symbol id="icon-hamburger" viewBox="0 0 1638 1024">
+	<title>hamburger</title>
+	<path class="path1" d="M0 0h1638.4v204.8h-1638.4v-204.8z"></path>
+	<path class="path2" d="M0 819.2h1638.4v204.8h-1638.4v-204.8z"></path>
+	<path class="path3" d="M0 409.6h1638.4v204.8h-1638.4v-204.8z"></path>
+</symbol>
+</defs>
+</svg>
