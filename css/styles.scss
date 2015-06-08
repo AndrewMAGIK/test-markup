@@ -148,6 +148,7 @@ header { @include position(absolute, 0 0 null 0); z-index: 10;
 
 	.scroll-down { @include position(absolute, null 30px 54px null); text-align: right; font-family: $font-HoeflerTextItalic; font-size: 18px; color: white;
 		svg { fill: white; width: 22px; height: 12px; margin-top: 14px; display: block; float: right;}
+		&:hover { text-decoration: underline; }
 	}
 
 }
@@ -182,6 +183,9 @@ footer { position: relative; padding: 25px 0;
 			@media #{$media-medium} { float: right; margin-left: 50px; }
 		}
 		span { @media #{$media-medium} { text-align: right; float: right; clear: both; } }
+		&:hover { 
+			span { text-decoration: underline; } 
+		}
 	}
 	.social-links { text-align: center;
 		ul { display: inline-block;

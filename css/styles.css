@@ -209,6 +209,8 @@ header {
       margin-top: 14px;
       display: block;
       float: right; }
+    .home-page-slider .scroll-down:hover {
+      text-decoration: underline; }
 
 .featured-posts {
   padding: 25px 0;
@@ -319,6 +321,8 @@ footer {
         text-align: right;
         float: right;
         clear: both; } }
+    footer .scroll-top:hover span {
+      text-decoration: underline; }
   footer .social-links {
     text-align: center; }
     footer .social-links ul {
